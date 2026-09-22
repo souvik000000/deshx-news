@@ -1,0 +1,6 @@
+{
+  "name": "DeshX — Fast Indian News",
+  "description": "Fast, bite-sized Indian news aggregator in 60 words across top stories, national, world, business, sports, and tech in English and Hindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
